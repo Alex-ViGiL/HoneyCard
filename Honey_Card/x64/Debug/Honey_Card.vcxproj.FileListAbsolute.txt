@@ -1,2 +1,4 @@
 C:\Users\aleks\Desktop\Honey_Card\x64\Debug\Honey_Card.exe
 C:\Users\aleks\Desktop\Honey_Card\x64\Debug\Honey_Card.pdb
+D:\Git\HoneyCard\Honey_Card\x64\Debug\Honey_Card.exe
+D:\Git\HoneyCard\Honey_Card\x64\Debug\Honey_Card.pdb

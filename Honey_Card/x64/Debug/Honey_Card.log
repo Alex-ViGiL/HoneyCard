@@ -1,3 +1,2 @@
 ﻿  Honey_Card.cpp
-C:\Users\aleks\Desktop\Honey_Card\Honey_Card.cpp(73,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  Honey_Card.vcxproj -> C:\Users\aleks\Desktop\Honey_Card\x64\Debug\Honey_Card.exe
+  Honey_Card.vcxproj -> D:\Git\HoneyCard\Honey_Card\x64\Debug\Honey_Card.exe

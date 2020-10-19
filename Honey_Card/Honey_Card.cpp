@@ -70,11 +70,11 @@ public:
         return age;
     }
 
-    int index = weight / (pow((height / 100), 2));
+    
     
    string set_index() {
 
-        
+       double index = weight / (pow((height / 100), 2));
 
         if (index < 18) {
             text = "Ниже нормального веса";
@@ -98,11 +98,6 @@ public:
         return text;
        
     }
-    
-
-   // string get_index() {
-       // return text;
-    //}
     
 };
 
@@ -147,8 +142,6 @@ public:
         cin >> age;
         patient.set_age(age);
 
-        //patient.set_index();
-
 
         //Очистка вводимых данных
         system("cls");
@@ -160,7 +153,12 @@ public:
             "Middle name : " << patient.get_middle_name() << endl <<
             "Weight : " << patient.get_weight() << endl <<""<< 
             "Height : " << patient.get_height() << endl << " "<< patient.set_index()<<endl<<
-            "Age : " << patient.get_age();
+            "Age : " << patient.get_age()<<endl<<
+            "Нажмите для выхода";
+
+        
+
+        return 0;
     }
 
      
